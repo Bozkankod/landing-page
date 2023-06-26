@@ -30,6 +30,29 @@
   <meta name="twitter:description" content="Batuhan Özkan kişisel web sayfası.">
   <meta name="twitter:image"
     content="https://github.com/Bozkankod/landing-page/blob/master/Images/readme.png?raw=true">
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-analytics.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+    
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      const firebaseConfig = {
+        apiKey: "AIzaSyAfWwbixwq8G3R0-s0VukyAGm3vl3jkh3U",
+        authDomain: "batuhanozkandev.firebaseapp.com",
+        projectId: "batuhanozkandev",
+        storageBucket: "batuhanozkandev.appspot.com",
+        messagingSenderId: "172213711009",
+        appId: "1:172213711009:web:e1d307a55e3cc31a1f00e0",
+        measurementId: "G-X9WZ4DGPXY"
+      };
+    
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
 </head>
 
 <body>
