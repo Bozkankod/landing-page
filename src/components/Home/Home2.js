@@ -19,7 +19,7 @@ function Home2() {
               KENDİMİ <span className="purple"> TANITAYIM </span>
             </h1>
             <p className="home-about-body">
-              Doğuştan beri programala için yaratıldığımı düşünüyorum 😛
+              Doğuştan beri programlama için yaratıldığımı düşünüyorum 😛
               <br />
               <br />Özellikle JS kütüphanelerine düşkünüm
               <i>
