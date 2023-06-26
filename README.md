@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
+<br />
+<div align="center">
+  <a href="https://github.com/bozkankod/landing-page">
+    <img src="src/Assets/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center">Batuhan Özkan Landing Page</h3>
 
-### `npm start`
+  <p align="center">
+    Landing page.
+    <br />
+    </a>
+    <br />
+    <br />
+    <a href="https://batuhanozkan.dev" target="_blank">Site</a>
+    ·
+    <a href="https://github.com/bozkankod/landing-page/issues">Bug Raporla</a>
+    ·
+    <a href="https://github.com/bozkankod/landing-page/issues">Yeni Özellik İste</a>
+  </p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Proje Hakkında
+Kendimi tanıtmak ve kişisel bir web sayfamın olması amacıyla oluşturulan app.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">Yukarı Git</a>)</p>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Ne Kullandım?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br/>
 
-### `npm run eject`
+* [![React][React.js]][React-url]
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+* ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#readme-top">Yukarı Git</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Katkıda Bulunmak
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Katkılar, açık kaynak topluluğunu öğrenmek, ilham almak ve yaratmak için muhteşem bir yer haline getiren unsurlardır. Yaptığınız herhangi bir katkı **çok değerlidir**.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Bu projeyi daha iyi hale getirecek bir öneriniz varsa, lütfen depoyu forklayın ve bir pull isteği oluşturun. Ayrıca, "geliştirme" etiketiyle basitçe bir sorun (issue) açabilirsiniz.
+Projeye yıldız vermeyi unutmayın! Tekrar teşekkürler!
 
-### Code Splitting
+1. Projeyi forkla
+2. Yeni özellik için branch oluştur (`git checkout -b ozellik/InanilmazOzellik`)
+3. Değişiklikleri commitle (`git commit -m 'InanilmazOzellik'`)
+4. Branchı pushla (`git push origin ozellik/InanilmazOzellik`)
+5. PR aç
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right">(<a href="#readme-top">Yukarı Git</a>)</p>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Lisans
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+MIT Lisansı altında saklanır detaylar için `LICENSE.md` okuyabilirsiniz.
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top">Yukarı Git</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## İletişim
 
-### `npm run build` fails to minify
+Batuhan Özkan - [@batujsx](https://twitter.com/batujsx) - bozkankod@gmail.com - 
+[Linkedin](https://www.linkedin.com/in/batudev/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Proje: [https://github.com/bozkankod/landing-page](https://github.com/bozkankod/landing-page)
+
+<p align="right">(<a href="#readme-top">Yukarı Git</a>)</p>
+
+
+
+[linkedin-url]: https://www.linkedin.com/in/landing-page/
+[contributors-shield]: https://img.shields.io/github/contributors/bozkankod/landing-page.svg?style=for-the-badge
+[contributors-url]: https://github.com/Bozkankod/landing-page/graphs/contributors/
+[forks-shield]: https://img.shields.io/github/forks/bozkankod/landing-page.svg?style=for-the-badge
+[forks-url]: https://github.com/bozkankod/landing-page/network/members
+[stars-shield]: https://img.shields.io/github/stars/bozkankod/landing-page.svg?style=for-the-badge
+[stars-url]: https://github.com/bozkankod/landing-page/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bozkankod/landing-page.svg?style=for-the-badge
+[issues-url]: https://github.com/bozkankod/landing-page/issues
+[license-shield]: https://img.shields.io/github/license/bozkankod/landing-page.svg?style=for-the-badge
+[license-url]: https://github.com/bozkankod/landing-page/blob/main/LICENSE.MD
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/company/scrum-point
+[product-screenshot]: images/screenshot.png
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
