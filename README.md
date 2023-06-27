@@ -43,7 +43,6 @@ Kendimi tanıtmak ve kişisel bir web sayfamın olması amacıyla oluşturulan a
 <br/>
 
 * [![React][React.js]][React-url]
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
