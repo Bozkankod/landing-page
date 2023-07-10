@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import burcApi from "../../Assets/Projects/burcapi.png";
 import lolKlipleri from "../../Assets/Projects/lolKlipleri.png";
 import scrumPoint from "../../Assets/Projects/scrumpoint.png";
+import burcYorumlari from "../../Assets/Projects/burcyorumlari.png";
 
 function Projects() {
   return (
@@ -30,26 +31,6 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={burcApi}
-              isBlog={false}
-              title="Burç API"
-              description="Günlük, haftalık ve aylık olarak tüm burçların güncel yorumları, özellikleri gibi tüm datayı dinamik olarak url yapısıyla fetch eder ve json formatında döndürür."
-              ghLink="https://github.com/bozkankod/burcapi"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={burcApi}
-              isBlog={false}
-              title="Randomize Files Names"
-              description="İlgili dizindeki tüm dosyaların başına 0-10000 numara aralığında rastgele rakamlar ekler."
-              ghLink="https://github.com/bozkankod/randomizefiles"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={lolKlipleri}
               isBlog={false}
               title="Lol Klipleri"
@@ -58,6 +39,39 @@ function Projects() {
               demoLink="https://www.youtube.com/@lolklipleri"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={burcYorumlari}
+              isBlog={false}
+              title="Burç Yorumları"
+              description="Flutter + MongoDB ile burç yorumlarını, burç uyumlarını, burç hesaplamalarını yapabildiğiniz bir mobil uygulama."
+              demoLink="https://play.google.com/store/apps/details?id=com.bozki.burclar"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={burcApi}
+              isBlog={false}
+              title="Burç API"
+              description="Günlük, haftalık ve aylık olarak tüm burçların güncel yorumları, özellikleri gibi tüm datayı dinamik olarak url yapısıyla fetch eder ve json formatında döndürür."
+              ghLink="https://github.com/bozkankod/burcapi"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={burcApi}
+              isBlog={false}
+              title="Randomize Files Names"
+              description="İlgili dizindeki tüm dosyaların başına belirtilen numara aralığında rastgele rakamlar ekler."
+              ghLink="https://github.com/bozkankod/randomizefiles"
+            />
+          </Col>
+
+          
+
+          
 
          
         </Row>
