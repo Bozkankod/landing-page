@@ -6,6 +6,7 @@ import burcApi from "../../Assets/Projects/burcapi.png";
 import lolKlipleri from "../../Assets/Projects/lolKlipleri.png";
 import scrumPoint from "../../Assets/Projects/scrumpoint.png";
 import burcYorumlari from "../../Assets/Projects/burcyorumlari.png";
+import just19Minutes from "../../Assets/Projects/just19minutes.png";
 
 function Projects() {
   return (
@@ -49,7 +50,16 @@ function Projects() {
               demoLink="https://play.google.com/store/apps/details?id=com.bozki.burclar"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={just19Minutes}
+              isBlog={false}
+              title="Just19Minutes"
+              description="İngilizce freelance eğitimleri için wordpress sitesi tasarlandı. "
+              ghLink="#"
+              demoLink="http://just19minutes.com/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={burcApi}
@@ -68,12 +78,6 @@ function Projects() {
               ghLink="https://github.com/bozkankod/randomizefiles"
             />
           </Col>
-
-          
-
-          
-
-         
         </Row>
       </Container>
     </Container>
